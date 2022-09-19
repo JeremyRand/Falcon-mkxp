@@ -214,6 +214,7 @@ EMBED = \
 	shader/simpleMatrix.vert \
 	shader/tilemapvx.vert \
 	assets/liberation.ttf \
+	assets/monapo.ttf \
 	assets/icon.png
 
 SHARED_FLUID {
